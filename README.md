@@ -34,7 +34,7 @@ A content based movie recommender system using vectorization and cosine similari
     
 - In recommendation systems, it is used to recommend movies  with the same similarities and for textual data, it is used to find the similarity of texts in the document.
 
-  [Cosine similarities](https://github.com/Abhishek-k-git/Movie-Recommendation-System/blob/main/photos/cosine-similarity.jpg)
+![Cosine similarities](https://github.com/Abhishek-k-git/Movie-Recommendation-System/blob/main/photos/cosine-similarity.jpg)
 
   ```from sklearn.metrics.pairwise import cosine_similarity```
 
